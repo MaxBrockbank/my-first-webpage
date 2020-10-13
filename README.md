@@ -9,6 +9,7 @@ This is a test README for our first webpage, making sure we know how to use GIT,
 ### Set-up Instructions
 1. Clone this repository
 2. Open index.html in your preferred browser
+3. Bask in the glory of my webpage
 
 ### Technologies Used
 * HTML
