@@ -1,7 +1,9 @@
-# My First Webpage
-
-### Author
-Max Brockbank and Floyd McCallum
+<h1 align="center">|| My First Webpage ||</h1>
+<div align="center">
+<img src="https://github.com/MaxBrockbank.png" width="200px" height="auto" style="border-radius: 100px">
+</div>
+<p align="center">By Max Brockabnk</p>
+<p align="center">Updated on Oct 13th, 2020</p>
 
 ### Description
 This is a test README for our first webpage, making sure we know how to use GIT, format HTML and format README files. 
